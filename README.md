@@ -1,6 +1,6 @@
 ## Who am I ?
-I am a third-year student at Bangladesh University of Business and Technology (BUBT) currently doing my Bachelor's in Computer Engineering. 
-I am an open-source Contributor and a web development addict.
+I am a fourth-year student at Bangladesh University of Business and Technology (BUBT) currently doing my Bachelor's in Computer Engineering. 
+I am interested in C,C++ and Python programming language and also interested in research work in the field of Machine Language.
 
 <!--
 **hrshammo/hrshammo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
