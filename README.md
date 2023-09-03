@@ -44,6 +44,4 @@ Here are some ideas to get you started:
 <div align="center">
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)]([https://linkedin.com/in/https://www.linkedin.com/in/sagor-saha-shuvro-3219421b9/](https://www.linkedin.com/in/sagor-saha-shuvro-3219421b9/)) 
- 
-https://www.linkedin.com/in/sagor-saha-shuvro-3219421b9/
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)]([https://linkedin.com/in/https://www.linkedin.com/in/sagor-saha-shuvro-3219421b9/](https://www.linkedin.com/in/sagor-saha-shuvro-3219421b9/))
