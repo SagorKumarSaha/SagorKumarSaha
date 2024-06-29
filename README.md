@@ -1,9 +1,9 @@
 ## Who am I ?
-I am a fourth-year student at Bangladesh University of Business and Technology (BUBT) currently doing my Bachelor's in Computer Engineering. 
-I am interested in C,C++ and Python programming language and also interested in research work in the field of Machine Language.
+I am a 1 year(+) experienced Software QA Engineer. I have good expertise in Application Automation Testing using Selenium and Java, Website Automation Testing using Appium, API Testing using Postman and Swagger, Performance Testing using JMeter, and Manual Testing.
+I am interested in C, Java and Python programming languages and also interested in research work in the field of Machine Language and deep Learning.
 
 <!--
-**hrshammo/hrshammo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**SagorKumarSaha/SagorKumarSaha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
