@@ -38,9 +38,10 @@ Here are some ideas to get you started:
  <div align="center">
      
      
-![github activity graph](https://activity-graph.herokuapp.com/graph?username=SagorKumarSaha&theme=dracula&layout=compact&title_color=FF69B4&hide_border=true&area=true)
+![github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=SagorKumarSaha&theme=dracula&hide_border=true&area=true)
 </div>
- 
+
+
 <div align="center">
 
 ## 🌐 Socials:
