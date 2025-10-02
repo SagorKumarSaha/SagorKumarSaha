@@ -1,6 +1,6 @@
 ## Who am I ?
-I am a 1 year(+) experienced Software QA Engineer. I have good expertise in Application Automation Testing using Selenium and Java, Website Automation Testing using Appium, API Testing using Postman and Swagger, Performance Testing using JMeter, and Manual Testing.
-I am interested in C, Java and Python programming languages and also interested in research work in the field of Machine Language and deep Learning.
+I have over 2 years of experience as a Software QA Engineer. I have good expertise in Manual Testing, Application Automation Testing using Appium and Java, Website Automation Testing using Selenium, API Testing using Postman and REST Assured, Performance Testing using JMeter, CI/CD pipeline using Jenkins and knowledge of Security testing using OWASP ZAP.
+I am interested in Java, SQL, Python and C++ programming languages and also interested in research work in the field of Machine Learning and Deep Learning.
 
 <!--
 **SagorKumarSaha/SagorKumarSaha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ## Visitor Count
-![Visitor Count](https://profile-counter.glitch.me/SagorKumarSaha/count.svg)
+![Visitor Count]([https://profile-counter.glitch.me/SagorKumarSaha/count.svg](https://komarev.com/ghpvc/?username=SagorKumarSaha&label=Profile%20views&color=0e75b6&style=flat))
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=SagorKumarSaha&theme=gotham&hide_border=false&include_all_commits=false&count_private=false)<br/>
